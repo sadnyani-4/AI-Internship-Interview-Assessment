@@ -48,6 +48,3 @@ Schedula needs to implement an Intelligent Queue Management system for a medical
 - **Real-Time ETA Updates**: The system can be enhanced to provide patients with estimated wait times through notifications.
 - **Rescheduling Option**: Automatic rescheduling options can be introduced for patients experiencing lengthy wait times.
 - **Check-in Confirmation**: The current system includes a confirmation feature for patients when the doctor is ready for them.
-
-## Loom Video Demonstration
-You can view the video demonstration of my assessment [here](https://www.loom.com/share/d48e8cde826a4d3c871a5f8c7d9d1c54?sid=841ffe67-3d5f-45f9-b4a7-bffae656184c).
